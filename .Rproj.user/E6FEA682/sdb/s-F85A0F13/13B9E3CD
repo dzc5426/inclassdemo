@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: demo\nType: Package\nTitle: This is an in class demo\nVersion: 0.1.0\nAuthors@R: c(\n    person(\"Justin\", \"Lee\", email = \"justinlee@psu.edu\", role = c(\"aut\",\"cre\")),\n    person(\"Stephane\", \"Guerrier\", role = \"aut\"),\n    person(\"Roberto\", \"Molinari\", role = \"aut\"),\n    person(\"Matthew\", \"Beckman\", role = \"aut\")\n    )\nMaintainer: Justin Lee <justinlee@psu.edu>\nDescription: More about what it does (maybe more than one line)\n    Use four spaces when indenting paragraphs within the Description.\nLicense: What license is it under?\nEncoding: UTF-8\nLazyData: true\nRoxygenNote: 6.0.1\n",
+    "created" : 1511892731255.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3507029820",
+    "id" : "13B9E3CD",
+    "lastKnownWriteTime" : 1511890628,
+    "last_content_update" : 1511890628,
+    "path" : "~/HW2 STAT 297/inclassdemo/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}

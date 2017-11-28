@@ -6,3 +6,6 @@ output: github_document
   
 Explain what your package is doing here
 
+to install my package
+
+devtools::install_github("dxc5426/inclassdemo")
